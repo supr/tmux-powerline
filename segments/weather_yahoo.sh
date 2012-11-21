@@ -5,7 +5,7 @@
 # 1. Go to Yahoo weather http://weather.yahoo.com/
 # 2. Find the weather for you location
 # 3. Copy the last numbers in that URL. e.g. "http://weather.yahoo.com/united-states/california/newport-beach-12796587/" has the number "12796587"
-location="12796587"
+location="12797534"
 
 # Can be any of {c,f,k}.
 unit="f"
